@@ -1,3 +1,26 @@
-body{
-    background-color: grey;
+img{
+    width: 100%;
 }
+
+
+header{
+    
+    background-size: cover;
+}
+
+.preparationTime{
+    border-radius: 1rem;
+    background-color: antiquewhite;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.preparationTime h3{
+    margin: 0;
+}
+
+.preparationTime ul{
+    list-style-type: none;
+    
+}
+
