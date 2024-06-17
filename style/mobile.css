@@ -1,26 +1,20 @@
-img{
-    width: 100%;
-}
-
-
-header{
+@media screen and (max-width: 425px) {
+    header{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+   img{
     
-    background-size: cover;
+   }
+   body{
+    display: block;
+    margin: auto;
+   }
+   
+   table{
+    width: 80%;
+    overflow-y: auto;
+    overflow-x: auto;
+   }
 }
-
-.preparationTime{
-    border-radius: 1rem;
-    background-color: antiquewhite;
-    padding: 1rem;
-    margin-top: 1rem;
-}
-
-.preparationTime h3{
-    margin: 0;
-}
-
-.preparationTime ul{
-    list-style-type: none;
-    
-}
-
