@@ -1,20 +1,10 @@
 @media screen and (max-width: 425px) {
-    header{
-        width: 100%;
-        margin: 0;
-        padding: 0;
-    }
-   img{
+
+body{
+    word-wrap: break-word;
     
-   }
-   body{
-    display: block;
-    margin: auto;
-   }
-   
-   table{
-    width: 80%;
-    overflow-y: auto;
-    overflow-x: auto;
-   }
+}
+img{
+    width: 100%;
+}
 }
