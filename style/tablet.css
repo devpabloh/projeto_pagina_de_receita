@@ -1,5 +1,14 @@
 @media screen and (min-width: 641px) {
-    body{
-        background-color: red;
+  
+    header{
+        width: 94%;
+        margin-top: 1rem;
+        
     }
+
+    header img{
+        border-radius: .8rem;
+    }
+  
+    
 }
